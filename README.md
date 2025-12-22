@@ -5,3 +5,5 @@ Data Analytics Project
 •	Data Cleaning – Validated data types, Standardised dates and checking for missing values
 •	Feature Engineering – adding 10+ new features like revenue split, seasonality index and ratio, etc.
 •	Advanced Analytics and Insights, data Exploration, Aggregation. Key metrics and KPIs
+
+Python Libraries used: Numpy, pandas, Seaborn, Matplotlib
